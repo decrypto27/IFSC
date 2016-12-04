@@ -1,0 +1,28 @@
+{
+  "name": "ifsc-upi",
+  "version": "1.0.0",
+  "description": "Lightweight module for validating IFSC codes and extracting info associated with the given IFSC code like Bank address, Branch address, MICR code etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decrypto27/IFSC.git"
+  },
+  "keywords": [
+    "upi",
+    "ifsc",
+    "demonetisation"
+  ],
+  "dependencies": {
+    "request": "2.51.0"
+  },
+
+  "author": "Vijay Kumar Attri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/decrypto27/IFSC/issues"
+  },
+  "homepage": "https://github.com/decrypto27/IFSC#readme"
+}
